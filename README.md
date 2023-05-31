@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm André</h1>
+<h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A student developer from Brazil</h3>
 
 - 🌱 I’m currently learning *Javascript*
 
-- 📫 How to reach me *alsfeijo91@gmail.com*
+- 📫 How to reach me *brunouhlig.dev@gmail.com*
 
 - ⚡ Fun fact *I like grow exotic plant species :seedling: :leaves:*
 
