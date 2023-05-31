@@ -5,7 +5,7 @@
 
 - 📫 How to reach me *brunouhlig.dev@gmail.com*
 
-- ⚡ Fun fact *I like grow exotic plant species :seedling: :leaves:*
+- ⚡ Fun fact *I like to learn new content myself. :seedling: :leaves:*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
